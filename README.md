@@ -7,4 +7,4 @@ There are more than 1000 countries in this world. The population is above 7 bill
 your entire life living in one place, eating the same foods, watching the same TV program, and facing
 the same person. You said you had dream once. But it was long time ago. People asked you, ' what is 
 your dream at that time?' Your smile, and couldn't answer.
-
+End
